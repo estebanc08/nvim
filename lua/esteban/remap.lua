@@ -75,5 +75,3 @@ vim.keymap.set("i", "<Home>", "<ESC>I");
 --select all text
 vim.keymap.set("i", "<C-A>", "<ESC>ggi<C-o>VG");
 
---spell check
---vim.keymap.set("i",
